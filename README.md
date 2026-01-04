@@ -4,6 +4,7 @@
 
   ### 🎓 Estudante de Engenharia de Computação - UEFS
   ### 🎮 Desenvolvedor de Jogos Indie
+  ### 🏛️ Presidente da Liga de Jogos - IEEE UEFS
 
   ---
 
@@ -21,6 +22,7 @@
 ## 🛠️ Ferramentas
 
 ![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)
+![GDScript](https://img.shields.io/badge/GDScript-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
