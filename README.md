@@ -29,7 +29,7 @@
 ## 📊 Estatísticas do GitHub
 
 ![GitHub Stats](https://github-readme-stats-livid-xi.vercel.app/api?username=JoaoAnunciacaoDev&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoAnunciacaoDev&layout=compact&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoAnunciacaoDev&layout=compact&theme=dracula&v=999)
 
 ---
 <p align="center"><i>"Vou pendurar a roupa na janela, guenta um segundinho só."</i></p>
