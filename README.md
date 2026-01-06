@@ -28,7 +28,7 @@
 
 ## 📊 Estatísticas do GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JoaoAnunciacaoDev&show_icons=true&theme=dracula)
+![GitHub Stats](https://github-readme-stats-livid-xi.vercel.app/api?username=JoaoAnunciacaoDev&show_icons=true&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoAnunciacaoDev&layout=compact&theme=dracula)
 
 ---
