@@ -2,9 +2,9 @@
 
   ## Hello, I am João Victor Anunciação 👋
   
-  ## 🎓 Computer Engineering Student – UEFS
-  ## 🎮 Indie Game Developer
-  ## 🏛️ Vice President of the Game League – IEEE UEFS
+  ### 🎓 Computer Engineering Student – UEFS
+  ### 🎮 Indie Game Developer
+  ### 🏛️ Vice President of the Game League – IEEE UEFS
 
   ---
 
