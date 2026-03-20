@@ -1,10 +1,10 @@
 <div align="center">
 
-  ## Olá, eu sou João Victor Anunciação 👋
-
-  ### 🎓 Estudante de Engenharia de Computação - UEFS
-  ### 🎮 Desenvolvedor de Jogos Indie
-  ### 🏛️ Presidente da Liga de Jogos - IEEE UEFS
+  ## Hello, I am João Victor Anunciação 👋
+  
+  ## 🎓 Computer Engineering Student – UEFS
+  ## 🎮 Indie Game Developer
+  ## 🏛️ Vice President of the Game League – IEEE UEFS
 
   ---
 
