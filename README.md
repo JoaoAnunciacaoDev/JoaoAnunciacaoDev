@@ -15,6 +15,9 @@
     <a href="https://jaodope.itch.io/">
       <img src="https://img.shields.io/badge/-Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" />
     </a>
+    <a>
+      <img src="https://img.shields.io/badge/FastAPI-005571.svg?style=for-the-badge&logo=fastapi" />
+    </a>
   </p>
 
 </div>
