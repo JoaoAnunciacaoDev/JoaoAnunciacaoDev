@@ -15,9 +15,6 @@
     <a href="https://jaodope.itch.io/">
       <img src="https://img.shields.io/badge/-Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" />
     </a>
-    <a>
-      <img src="https://img.shields.io/badge/FastAPI-005571.svg?style=for-the-badge&logo=fastapi" />
-    </a>
   </p>
 
 </div>
@@ -29,6 +26,7 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
+![FastApi](https://img.shields.io/badge/FastAPI-005571.svg?style=for-the-badge&logo=fastapi)
 
 ## 📊 Estatísticas do GitHub
 
