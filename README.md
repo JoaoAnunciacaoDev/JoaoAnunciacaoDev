@@ -20,21 +20,23 @@
 </div>
 
 ## 🛠️ Ferramentas
-
-![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)
-![GDScript](https://img.shields.io/badge/GDScript-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571.svg?style=for-the-badge&logo=fastapi)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+<p align="center>
+  ![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)
+  ![GDScript](https://img.shields.io/badge/GDScript-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)
+  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
+  ![FastAPI](https://img.shields.io/badge/FastAPI-005571.svg?style=for-the-badge&logo=fastapi)
+  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+  ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+  ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+</p>
 
 ## 📊 Estatísticas do GitHub
-
-![GitHub Stats](https://github-readme-stats-livid-xi.vercel.app/api?username=JoaoAnunciacaoDev&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats-livid-xi.vercel.app/api/top-langs/?username=JoaoAnunciacaoDev&layout=compact&theme=dracula)
+<p align="center>
+  ![GitHub Stats](https://github-readme-stats-livid-xi.vercel.app/api?username=JoaoAnunciacaoDev&show_icons=true&theme=dracula)
+  ![Top Langs](https://github-readme-stats-livid-xi.vercel.app/api/top-langs/?username=JoaoAnunciacaoDev&layout=compact&theme=dracula)
+<p>
 
 ---
 <p align="center"><i>"Vou pendurar a roupa na janela, guenta um segundinho só."</i></p>
