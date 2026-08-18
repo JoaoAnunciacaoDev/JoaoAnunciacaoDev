@@ -24,13 +24,13 @@
 
 ### 🌐 Frontend
 
-<img src="https://img.shields.io/badge/React-06B6D4?style=for-the-badge&logo=react&logoColor=white" />
-<img src="https://img.shields.io/badge/TypeScript-06B6D4?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/React-0891B2?style=for-the-badge&logo=react&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-0891B2?style=for-the-badge&logo=typescript&logoColor=white" />
 
 ### 🗄️ Database
 
-<img src="https://img.shields.io/badge/SQLite-14B8A6?style=for-the-badge&logo=sqlite&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-14B8A6?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/SQLite-0F766E?style=for-the-badge&logo=sqlite&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-0F766E?style=for-the-badge&logo=postgresql&logoColor=white" />
 
 ---
 
