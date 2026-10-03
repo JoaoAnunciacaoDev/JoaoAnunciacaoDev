@@ -20,8 +20,8 @@
 
 <img src="https://img.shields.io/badge/Godot-8B5CF6?style=for-the-badge&logo=godot-engine&logoColor=white" />
 <img src="https://img.shields.io/badge/GDScript-8B5CF6?style=for-the-badge&logo=godot-engine&logoColor=white" />
-<img src="https://img.shields.io/badge/Unity-8B5CF6?style=for-the-badge&logo=godot-engine&logoColor=white" />
-<img src="https://img.shields.io/badge/C#-8B5CF6?style=for-the-badge&logo=godot-engine&logoColor=white" />
+<img src="https://img.shields.io/badge/Unity-8B5CF6?style=for-the-badge&logo=unity&logoColor=white" />
+<img src="https://img.shields.io/badge/C#-8B5CF6?style=for-the-badge&logo=c#&logoColor=white" />
 
 </td>
 
@@ -33,8 +33,8 @@
 <img src="https://img.shields.io/badge/Python-2563EB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Django-2563EB?style=for-the-badge&logo=django&logoColor=white" />
 <img src="https://img.shields.io/badge/FastAPI-2563EB?style=for-the-badge&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/Golang-2563EB?style=for-the-badge&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2563EB?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Golang-2563EB?style=for-the-badge&logo=golang&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2563EB?style=for-the-badge&logo=docker&logoColor=white" />
 
 </td>
 </tr>
